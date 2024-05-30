@@ -1,0 +1,2 @@
+# SynopticTrendtrove
+ assignment
